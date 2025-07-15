@@ -1,0 +1,7 @@
+telethon
+nest-asyncio
+PyMuPDF
+python-docx
+python-pptx
+pywin32
+# python-dotenv (إذا كنت تستخدمها)

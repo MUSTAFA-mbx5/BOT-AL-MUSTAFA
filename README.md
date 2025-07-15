@@ -1,1 +1,3 @@
-# BOT-AL-MUSTAFA
+# Telegram Bot
+
+بوت كامل مقسم لأوامر منفصلة.
